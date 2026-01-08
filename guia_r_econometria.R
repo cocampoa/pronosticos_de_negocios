@@ -2,6 +2,12 @@
 # GUÍA DE REFERENCIA RÁPIDA: ESTADÍSTICA Y SERIES DE TIEMPO
 # ==============================================================================
 
+
+# NOTA:
+# Este archivo es una guía de referencia conceptual.
+# No está diseñado para ejecutarse de principio a fin.
+
+
 # --- 1. Paquetes y Configuración ----------------------------------------------
 # Paquetes recomendados:
 # boot, fma, forecast, greybox, ggplot2, lamW, lmtest, MASS, 
